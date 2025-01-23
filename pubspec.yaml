@@ -31,7 +31,8 @@ dependencies:
   flutter:
     sdk: flutter
   mqtt_client: ^10.5.1
-  syncfusion_flutter_charts: ^22.1.39
+  syncfusion_flutter_charts: ^28.1.41
+  path_provider: ^2.0.14
   # shared_preferences: ^2.0.17
 
   # The following adds the Cupertino Icons font to your application.
